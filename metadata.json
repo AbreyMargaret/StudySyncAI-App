@@ -1,0 +1,8 @@
+{
+  "name": "StudySync AI",
+  "description": "Adaptive learning, knowledge assessment, confidence-gap detection, and wellness-aware study planning platform for STEM students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
